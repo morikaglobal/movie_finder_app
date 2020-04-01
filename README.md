@@ -2,11 +2,11 @@
 
 I built a very simple web application where you can type a word or even a letter to find a film using JavaScript and TMDB's API.
 
-<a href="https://newsdatasummaryapp.herokuapp.com/" target="_blank">View Demo</a>
+<a href="https://filmfinderapp.netlify.com/" target="_blank">View Demo</a>
 
 ## About the Project
 
-![About the Project](images/screenshot.png)
+![About the Project](assets/images/screenshot.png)
 
 Built with:
 
